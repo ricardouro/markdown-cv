@@ -1,9 +1,10 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ricardo Almeida-Magana's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ricardo Almeida-Magana
+Urologist, Research Fellow
+The NeuroSAFE PROOF trial.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
