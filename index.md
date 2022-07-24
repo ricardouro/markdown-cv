@@ -7,14 +7,20 @@ Urologist, Research Fellow
 The NeuroSAFE PROOF trial.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://twitter.com/ricardouromd1">@ricardouromd</a>
+| <a href="r.magana@ucl.ac.uk">r.magana@ucl.ac.uk</a>
 </div>
 
 
-## Currently
+## Work experience
 
-Standing on the shoulders of giants
+2018-2021
+Attending Urologist 
+Urology department 
+Navy Medical Center 
+Mexico City
+
+2021-date: "`r format(Sys.time(), %B, %Y')`"
 
 ### Specialized in
 
